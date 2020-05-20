@@ -1,0 +1,2 @@
+İçinde antrenman ve main adlı 2 class bulunduran,yapıcı metotlar arasında değer atamalarının yapılabildiği,,kullanıcıdan bir antrenman planı ve hareket turu istenilip yapılan hareketlere göre kalan hareket sayısını gösteren ve tamamlanan hareketlere göre ekranda ^^tebrikler hedeflediğin burpee sayısını geçtin !'' 
+gibi uyarılar yazdıran,constructor ve getter setter yötemlerinin kullanıldğı bir antrenman programını java ile kodlayınız.
